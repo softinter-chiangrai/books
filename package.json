@@ -1,5 +1,5 @@
 {
-  "name": "jaspersoft-studio-7",
+  "name": "books",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",
-    "@docusaurus/faster": "3.10.1",
+    "@docusaurus/faster": "^3.6.0",
     "@docusaurus/preset-classic": "3.10.1",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
