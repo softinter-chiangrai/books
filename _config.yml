@@ -1,0 +1,12 @@
+# เลือกธีมที่รองรับเมนูด้านบน (แนะนำธีม minima เป็นธีมมาตรฐานที่เรียบหรู)
+theme: jekyll-theme-minima
+
+# ตั้งชื่อเว็บ
+title: "My Academy"
+description: "คลังความรู้สำหรับสอนนักเรียน"
+
+# สร้างเมนูด้านบน (ใส่ชื่อหน้า และพาธไฟล์ .md)
+header_pages:
+  - index.md
+  - intro.md
+  - contact.md
